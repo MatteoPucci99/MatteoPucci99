@@ -1,5 +1,7 @@
+
 # 💫 About Me:
-Ciao mi chiamo Matteo e sono un front end developer
+<img src="https://media.licdn.com/dms/image/D4D16AQHevbKPUPM3gA/profile-displaybackgroundimage-shrink_350_1400/0/1704659926780?e=1713398400&v=beta&t=8wLSXInvmakOPX44ZvMK7z3Ya58weer6eWg6q71_nSA">
+<h3>Ciao 👋🏻 mi chiamo Matteo e sono un front end developer</h3>
 
 
 ## 🌐 Socials:
