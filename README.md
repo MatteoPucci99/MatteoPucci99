@@ -1,11 +1,9 @@
 
 # 💫 About Me:
 <img src="https://media.licdn.com/dms/image/D4D16AQHevbKPUPM3gA/profile-displaybackgroundimage-shrink_350_1400/0/1704659926780?e=1713398400&v=beta&t=8wLSXInvmakOPX44ZvMK7z3Ya58weer6eWg6q71_nSA">
-<h3>Hi there! 👋🏻 I'm Matteo, welcome to my GitHub! 👀</h3>
-<p>
-💻​ I specialize in Front End development: with a solid foundation of skills in HTML, CSS, JavaScript, and React, my goal is to turn creative ideas into engaging and intuitive applications, providing the best possible user experience.
 
-🧠​ As a psychology student and passionate about my studies, I enjoy connecting with others and contributing my best in the spaces I'm immersed in.
+<p>
+I’m the best react developer, period.
 </p>
 
 
